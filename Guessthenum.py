@@ -1,3 +1,7 @@
+
+
+
+
 import random
 print("Hi, What is your name ?")
 name=input()
@@ -21,3 +25,7 @@ for i in range(6):
 if i==5:
     print(" Ohh. i am thinking of number "+str(secreatenum)+" . It's Ok.\n")
 
+
+    
+    
+    
