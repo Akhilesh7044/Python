@@ -7,6 +7,8 @@ print("Hi, What is your name ?")
 name=input()
 print("Hello "+name+", i am thinking a number between 0-20. I think you can guess it \n")
 secreatenum=random.randint(0,21)
+# this will generate any number from 0 to 20
+
 
 for i in range(6):
     try :
