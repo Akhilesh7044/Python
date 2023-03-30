@@ -1,3 +1,7 @@
+
+
+
+
 import random
 rps_id=['Rock','Paper', 'Scissors']
 rps=[
@@ -88,3 +92,7 @@ if y==2:
 # Rock- You Lose
 # Paper- You win
 # else(same)- Tie
+
+
+
+
