@@ -1,4 +1,4 @@
 # Python
 python programs and projects
-Just small program to learn Python
+Just small programs to learn Python
 
